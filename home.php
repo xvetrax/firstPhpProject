@@ -9,11 +9,8 @@
     <script src="main.js"></script>
 </head>
 <body>
-  <div>
-<a href="index.php">Pagrindinis</a> | 
-<a href="index.php?action=paieska">Paieška</a> |
-<a href="index.php?action=apie">Apie</a> |
-<a href="index.php?action=kontaktai">Kontaktai</a> 
-</div>
+    
+<?php echo 'Pagrindinis puslapis'; ?>
+
 </body>
 </html>
